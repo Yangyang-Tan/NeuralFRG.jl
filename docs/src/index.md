@@ -11,4 +11,5 @@ Documentation for [NeuralFRG](https://github.com/Yangyang-Tan/NeuralFRG.jl).
 
 ```@autodocs
 Modules = [NeuralFRG]
+Private = false
 ```
