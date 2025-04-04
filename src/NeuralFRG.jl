@@ -4,4 +4,6 @@ module NeuralFRG
 using Lux
 
 
+export PINN
+
 end
