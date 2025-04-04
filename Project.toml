@@ -1,0 +1,13 @@
+name = "NeuralFRG"
+uuid = "b9f85c64-2253-4364-be4a-8f971340e938"
+authors = ["Yang-yang Tan"]
+version = "0.0.1-DEV"
+
+[compat]
+julia = "1.11"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
