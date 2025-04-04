@@ -1,7 +1,7 @@
 module NeuralFRG
 
 # Write your package code here.
-using Lux
+using Lux,Random
 
 include("pinn_types.jl")
 export PINN
